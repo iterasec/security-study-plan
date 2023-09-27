@@ -1,0 +1,35 @@
+## Azure Configuration Review - Zero to Hero steps:
+- AZ-900 training (10 hours) - 2 weeks, self-learning
+  - learning material: udemy.com, acloudguru.com, Microsoft resources
+- AZ-500 training (30-40 hours) - 2 months, self-learning
+  - learning material: udemy.com, acloudguru.com, Microsoft resources
+- PowerShell training (10 hours) - 2 weeks (optional but recommended), self-learning
+  - learning material: udemy.com, other courses
+- Shadowing 3-5 projects
+
+## AWS Configuration Review - Zero to Hero steps:
+- Amazon Cloud Practitioner (10 hours) - 2 weeks, self-learning
+  - learning material: udemy.com, acloudguru.com, Amazon resources
+  - https://deloittedevelopment.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/20053378#overview
+  - https://deloittedevelopment.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/learn/quiz/4915789#overview
+- Amazon Cloud Solution Architect Associate - 2 months self-learning (can be exchanged to Cloud Developer or Cloud Administrator certificates)
+  - learning material: udemy.com, acloudguru.com, amazon resources
+- Amazon Cloud Security Associate (30-40 hours) - 2 months, self-learning
+  - learning material: udemy.com, acloudguru.com, amazon resources
+- Shadowing 3-5 projects
+- Hands on learning of the following tools (2-4 hours) - on a project
+  - Prowler
+  - Scout2
+
+## Advanced Trainings (not included in Zero to Hero)
+- Pentester Academy Cloud Security: AWS Edition bootcamp - https://bootcamps.pentesteracademy.com/course/
+- FLAWS AWS pentest training (CTF with hints) - http://flaws.cloud , http://flaws2.cloud
+- Pentester Academy Attacking and Defending Azure AD Cloud: Beginner's Edition - https://bootcamps.pentesteracademy.com/course/
+
+## Further Possible Trainings
+
+- GIAC Cloud - https://www.giac.org/certification/cloud-penetration-tester-gcpn
+- SANS Cloud Pentest - https://www.giac.org/certification/cloud-penetration-tester-gcpn
+- Hacker Associate OCP - https://hackerassociate.com/training-and-certification/ocpt-offensive-cloud-penetration-testing/
+- Infosec Cloud Bootcamp - https://www.infosecinstitute.com/courses/cloud-penetration-testing-boot-camp/
+- IACert Cloud CCPT - https://www.iacertification.org/ccpt_certified_cloud_penetration_tester.html
