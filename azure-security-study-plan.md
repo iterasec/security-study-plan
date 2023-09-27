@@ -51,8 +51,19 @@ title: "Azure Penetration Testing Learning Path"
 
 ### Module 8: Penetration Testing Tools
 - **Objective**: Explore tools used in Azure penetration testing.
+- https://learn.microsoft.com/en-us/azure/well-architected/security/monitor-test
   - Get hands-on experience with tools like Nmap, Burp Suite, and OWASP ZAP.
   - Learn about Azure-specific tools like AzCopy and Azure PowerShell.
+ 
+  - Intro To Azure Pentesting Course - Hacking Azure
+https://www.udemy.com/course/azure-pentesting-course-hacking/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397279517_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_9067558_._pd__._&matchtype=&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_pQfX1Td8B2bYWUippEpvJtXDWtEzkQ0lMNULnEoW1TZcO9erVR9IaAhF8EALw_wcB
+  - https://cloud.hacktricks.xyz/pentesting-cloud/azure-security
+  - https://github.com/Kyuu-Ji/Awesome-Azure-Pentest
+  - https://www.comparitech.com/net-admin/azure-penetration-testing-tools/
+  - https://www.getastra.com/blog/security-audit/azure-penetration-testing/
+ 
+  - Penetration Testing Azure for Ethical Hackers
+https://github.com/PacktPublishing/Penetration-Testing-Azure-for-Ethical-Hackers
 
 ## Advanced Level (12+ Months)
 
