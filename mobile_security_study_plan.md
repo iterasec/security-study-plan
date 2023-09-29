@@ -24,7 +24,7 @@ title: "Zero to Hero"
    - [OWASP IGOAT](https://github.com/OWASP/igoat)
 - Frida IOS fundamentals
     - [Knowledgebase/IOS/Frida](../ios/tools/frida)
-    - [CRS frida-scripts git repository](https://git.crs.lab/crs_projects/frida-scripts/-/tree/master/ios)
+    - [frida-scripts git repository](https://github.com/frida-scripts/-/tree/master/ios](https://github.com/0xdea/frida-scripts)
     - [frida-boot e-learning](https://www.youtube.com/watch?v=CLpW1tZCblo)
 
 ## Onboarding II. Android (~ 1 week)
@@ -32,7 +32,7 @@ title: "Zero to Hero"
 - Android fundamentals (architecture, rooting, Java, etc.)
     - [OWASP Mobile Security Testing Guide - Android Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05a-platform-overview)
 - Tool installation
-    - [CRS Knowledgebase/Android Testing Tools Setup](../android/tools/An droid_testing_setup_for_macOS)
+    - Android Testing Tools Setup
         - JADX
         - etc.
     - [Android Virtual Device (Emulator)](../ios/tools/avd)
@@ -45,7 +45,7 @@ title: "Zero to Hero"
    - [UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
 - Frida Android fundamentals
     - [Knowledgebase/Android/Frida](../../android/tools/frida)
-    - [CRS frida-scripts git repository](https://git.crs.lab/crs_projects/frida-scripts/-/tree/master/android)
+    - [Frida scripts] (https://github.com/0xdea/frida-scripts)
     - [frida-boot e-learning](https://www.youtube.com/watch?v=CLpW1tZCblo)
 
 ## Self-learning II. (~1-2 weeks)
@@ -54,7 +54,6 @@ title: "Zero to Hero"
 ## Test (1 week)
 - Pentesting a vulnerable app, and write report.
 - TODO: Select the exact vulnerable app.
-- TODO: CRS should develop an own vulnerable app in the future.
 - Team lead will read the report and evaluate trainee's knowledge.
 
 ## Shadowing (1 IOS + 1 Android project) ~ 2 week
