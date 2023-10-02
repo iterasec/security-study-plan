@@ -15,3 +15,4 @@ A Practical Study Plan to become a successful cybersecurity engineer based on ro
 9. [Application Security Testing Plan](application-security-study-plan.md)
 10. [API Security Study Plan](api-security-study-plan.md)
 11. [Network Security Study Plan](network-security-study-plan.md)
+12. [Mobile Security Study Plan](mobile_security_study_plan.md)
