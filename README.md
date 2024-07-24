@@ -19,7 +19,7 @@ A Practical Study Plan to become a successful cybersecurity engineer based on ro
 
 Cloud Methodology:
 13. [Cloud Methodology](Cloud-Provider-Cross-Terminology-Matrices-and-Resources.md)
-14. [Cloud Path](Zero_to_Hero_Cloud _addition.md)
+14. [Cloud Path](Zero_to_Hero_Cloud_addition.md)
 
 Azure Methodology:
 15. [Azure Resources](AZURE-Resources.md)
