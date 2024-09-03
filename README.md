@@ -1,6 +1,8 @@
-# Security Study Plan
+# [Security Study Plan](https://github.com/iterasec/security-study-plan/blob/main/Cybersecurity%20Engineer%20Study%20Roadmap.xmind)
 
 A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.
+
+![Screenshot at Sep 03 13-42-20](https://github.com/user-attachments/assets/5718f8bc-f3e6-4a40-b81f-f035a2f123a0)
 
 **It will cover but not limited to:**
 
